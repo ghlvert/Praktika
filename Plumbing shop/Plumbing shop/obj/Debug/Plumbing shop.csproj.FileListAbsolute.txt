@@ -1,0 +1,10 @@
+C:\Users\sss\source\repos\Plumbing shop\Plumbing shop\bin\Debug\Plumbing shop.exe.config
+C:\Users\sss\source\repos\Plumbing shop\Plumbing shop\bin\Debug\Plumbing shop.exe
+C:\Users\sss\source\repos\Plumbing shop\Plumbing shop\bin\Debug\Plumbing shop.pdb
+C:\Users\sss\source\repos\Plumbing shop\Plumbing shop\obj\Debug\Plumbing shop.csprojAssemblyReference.cache
+C:\Users\sss\source\repos\Plumbing shop\Plumbing shop\obj\Debug\Plumbing_shop.Form1.resources
+C:\Users\sss\source\repos\Plumbing shop\Plumbing shop\obj\Debug\Plumbing_shop.Properties.Resources.resources
+C:\Users\sss\source\repos\Plumbing shop\Plumbing shop\obj\Debug\Plumbing shop.csproj.GenerateResource.cache
+C:\Users\sss\source\repos\Plumbing shop\Plumbing shop\obj\Debug\Plumbing shop.csproj.CoreCompileInputs.cache
+C:\Users\sss\source\repos\Plumbing shop\Plumbing shop\obj\Debug\Plumbing shop.exe
+C:\Users\sss\source\repos\Plumbing shop\Plumbing shop\obj\Debug\Plumbing shop.pdb
